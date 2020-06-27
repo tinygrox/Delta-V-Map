@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KSPBundleDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UrlName="deltavmap_core" Name="deltavmap_core" CreatedTime="-8586090165587518118">
+  <Author />
+  <Info />
+  <Assets>
+    <Asset Name="Kerbol" Path="Assets/DeltaVMap/Kerbol.prefab" Type="GameObject" Url="DeltaVMap/Kerbol" AutoLoad="false" />
+    <Asset Name="OPM" Path="Assets/DeltaVMap/OPM.prefab" Type="GameObject" Url="DeltaVMap/OPM" AutoLoad="false" />
+    <Asset Name="RSS" Path="Assets/DeltaVMap/RSS.prefab" Type="GameObject" Url="DeltaVMap/RSS" AutoLoad="false" />
+    <Asset Name="deltavmap_core_kspedia" Path="Assets/XML/deltavmap_core_kspedia.xml" Type="TextAsset" Url="XML/deltavmap_core_kspedia" AutoLoad="false" />
+  </Assets>
+  <Dependencies />
+</KSPBundleDefinition>

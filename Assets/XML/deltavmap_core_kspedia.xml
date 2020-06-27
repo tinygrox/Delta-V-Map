@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KSPedia xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="deltavmap_core" CreatedTime="-8586090165755784220">
+  <Categories>
+    <Category Name="Delta-V Map">
+      <Title>Delta-V Map</Title>
+      <TitleScreen />
+      <Screens>
+        <Screen>RSS</Screen>
+        <Screen>OPM</Screen>
+        <Screen>Kerbol</Screen>
+      </Screens>
+      <Subcategories />
+    </Category>
+  </Categories>
+  <Screens>
+    <Screen Name="RSS">
+      <BundleName>deltavmap_core</BundleName>
+      <AssetPath>Assets/DeltaVMap/RSS.prefab</AssetPath>
+      <Title>Real Solar System</Title>
+      <Background />
+      <Text />
+      <Tooltips />
+    </Screen>
+    <Screen Name="OPM">
+      <BundleName>deltavmap_core</BundleName>
+      <AssetPath>Assets/DeltaVMap/OPM.prefab</AssetPath>
+      <Title>Outer Planet Mod</Title>
+      <Background />
+      <Text />
+      <Tooltips />
+    </Screen>
+    <Screen Name="Kerbol">
+      <BundleName>deltavmap_core</BundleName>
+      <AssetPath>Assets/DeltaVMap/Kerbol.prefab</AssetPath>
+      <Title>Kerbol</Title>
+      <Background />
+      <Text />
+      <Tooltips />
+    </Screen>
+  </Screens>
+</KSPedia>
